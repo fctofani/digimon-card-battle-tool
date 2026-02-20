@@ -1,0 +1,4319 @@
+[
+  {
+    "id": "000",
+    "name": "Imperialdramon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 60,
+    "p": 10,
+    "hp": 1900,
+    "attacks": {
+      "circle": 980,
+      "triangle": 670,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Add number of DP Cards in DP Slot x100 to own Attack Power.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "001",
+    "name": "Omnimon I",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 60,
+    "p": 20,
+    "hp": 1800,
+    "attacks": {
+      "circle": 960,
+      "triangle": 560,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "Change own Specialty to Fire. Boost own Attack Power +100.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "002",
+    "name": "WarGreymon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1650,
+    "attacks": {
+      "circle": 900,
+      "triangle": 670,
+      "cross": 380,
+      "xeffect": "Ice ×3"
+    },
+    "support": "Add number of Cards in Hand x100 to own Attack Power.",
+    "material": 18,
+    "result": 35
+  },
+  {
+    "id": "003",
+    "name": "Phoenixmon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1320,
+    "attacks": {
+      "circle": 750,
+      "triangle": 560,
+      "cross": 200,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Digimon KO'd in battle revives with 500 HP. Battle is still lost.",
+    "material": 17,
+    "result": 34
+  },
+  {
+    "id": "004",
+    "name": "Paildramon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1230,
+    "attacks": {
+      "circle": 800,
+      "triangle": 620,
+      "cross": 450,
+      "xeffect": "[x] to 0"
+    },
+    "support": "If own Specialty is Fire, boost own Attack Power +300.",
+    "material": 17,
+    "result": 33
+  },
+  {
+    "id": "005",
+    "name": "Gigadramon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1480,
+    "attacks": {
+      "circle": 900,
+      "triangle": 710,
+      "cross": 550,
+      "xeffect": "None"
+    },
+    "support": "None",
+    "material": 16,
+    "result": 32
+  },
+  {
+    "id": "006",
+    "name": "RealMetalGreymon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 40,
+    "p": 10,
+    "hp": 1540,
+    "attacks": {
+      "circle": 850,
+      "triangle": 600,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Boost own Attack Power +300.",
+    "material": 16,
+    "result": 31
+  },
+  {
+    "id": "007",
+    "name": "Garudamon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1320,
+    "attacks": {
+      "circle": 730,
+      "triangle": 550,
+      "cross": 320,
+      "xeffect": "First Attack"
+    },
+    "support": "If own Attack is [c], attack first.",
+    "material": 15,
+    "result": 30
+  },
+  {
+    "id": "008",
+    "name": "MasterTyrannomon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1280,
+    "attacks": {
+      "circle": 850,
+      "triangle": 520,
+      "cross": 370,
+      "xeffect": "Ice ×3"
+    },
+    "support": "If own Specialty is Fire, own Attack Power is doubled.",
+    "material": 15,
+    "result": 29
+  },
+  {
+    "id": "009",
+    "name": "MetalGreymon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1540,
+    "attacks": {
+      "circle": 720,
+      "triangle": 540,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "If own Level is U, boost own Attack Power +500.",
+    "material": 14,
+    "result": 28
+  },
+  {
+    "id": "010",
+    "name": "Vermilimon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1430,
+    "attacks": {
+      "circle": 700,
+      "triangle": 510,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "None",
+    "material": 14,
+    "result": 27
+  },
+  {
+    "id": "011",
+    "name": "Meteormon",
+    "speciality": "Fire",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1150,
+    "attacks": {
+      "circle": 750,
+      "triangle": 400,
+      "cross": 200,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Lower opponent's [c] Attack Power to 0.",
+    "material": 14,
+    "result": 26
+  },
+  {
+    "id": "012",
+    "name": "ExVeemon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 810,
+    "attacks": {
+      "circle": 580,
+      "triangle": 480,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "If own Level is Armor, boost own Attack Power +300.",
+    "material": 13,
+    "result": 25
+  },
+  {
+    "id": "013",
+    "name": "Aquilamon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 670,
+    "attacks": {
+      "circle": 570,
+      "triangle": 450,
+      "cross": 200,
+      "xeffect": "First Attack"
+    },
+    "support": "If own Attack is [t], attack first.",
+    "material": 12,
+    "result": 24
+  },
+  {
+    "id": "014",
+    "name": "Greymon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 850,
+    "attacks": {
+      "circle": 600,
+      "triangle": 420,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "If own Level is C, boost own Attack Power +300.",
+    "material": 12,
+    "result": 23
+  },
+  {
+    "id": "015",
+    "name": "Apemon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 830,
+    "attacks": {
+      "circle": 550,
+      "triangle": 420,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Change own Specialty to Fire. Boost own Attack Power +200.",
+    "material": 11,
+    "result": 22
+  },
+  {
+    "id": "016",
+    "name": "Tyrannomon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 810,
+    "attacks": {
+      "circle": 520,
+      "triangle": 380,
+      "cross": 150,
+      "xeffect": "Nature ×3"
+    },
+    "support": "None",
+    "material": 11,
+    "result": 21
+  },
+  {
+    "id": "017",
+    "name": "Monochromon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 950,
+    "attacks": {
+      "circle": 540,
+      "triangle": 260,
+      "cross": 200,
+      "xeffect": "[c] to 0"
+    },
+    "support": "None",
+    "material": 10,
+    "result": 20
+  },
+  {
+    "id": "018",
+    "name": "Meramon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 740,
+    "attacks": {
+      "circle": 550,
+      "triangle": 300,
+      "cross": 220,
+      "xeffect": "Ice ×3"
+    },
+    "support": "If opponent's Specialty is Ice, own Attack Power is tripled.",
+    "material": 10,
+    "result": 19
+  },
+  {
+    "id": "019",
+    "name": "Centarumon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 800,
+    "attacks": {
+      "circle": 450,
+      "triangle": 360,
+      "cross": 220,
+      "xeffect": "Ice ×3"
+    },
+    "support": "Use [c] and Boost own [c] Attack Power +400.",
+    "material": 9,
+    "result": 18
+  },
+  {
+    "id": "020",
+    "name": "Birdramon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 710,
+    "attacks": {
+      "circle": 500,
+      "triangle": 310,
+      "cross": 130,
+      "xeffect": "First Attack"
+    },
+    "support": "Attack first.",
+    "material": 9,
+    "result": 17
+  },
+  {
+    "id": "021",
+    "name": "Tankmon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1000,
+    "attacks": {
+      "circle": 400,
+      "triangle": 290,
+      "cross": 120,
+      "xeffect": "First Attack"
+    },
+    "support": "Own HP become 10. Boost own Attack Power +500.",
+    "material": 8,
+    "result": 16
+  },
+  {
+    "id": "022",
+    "name": "RedVegimon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 850,
+    "attacks": {
+      "circle": 400,
+      "triangle": 310,
+      "cross": 0,
+      "xeffect": "None"
+    },
+    "support": "Discard all own DP Cards in DP Slot, boost own Attack Power +300.",
+    "material": 8,
+    "result": 15
+  },
+  {
+    "id": "023",
+    "name": "Piddomon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 750,
+    "attacks": {
+      "circle": 450,
+      "triangle": 360,
+      "cross": 220,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Own [c] Attack Power becomes same as own HP.",
+    "material": 7,
+    "result": 14
+  },
+  {
+    "id": "024",
+    "name": "Akatorimon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 600,
+    "attacks": {
+      "circle": 400,
+      "triangle": 460,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Boost own Attack Power +200.",
+    "material": 7,
+    "result": 13
+  },
+  {
+    "id": "025",
+    "name": "BomberNanimon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 650,
+    "attacks": {
+      "circle": 520,
+      "triangle": 390,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "If both Levels are C, boost own Attack Power +400.",
+    "material": 6,
+    "result": 12
+  },
+  {
+    "id": "026",
+    "name": "Flarerizamon",
+    "speciality": "Fire",
+    "level": "C",
+    "dp": 20,
+    "p": 10,
+    "hp": 730,
+    "attacks": {
+      "circle": 550,
+      "triangle": 320,
+      "cross": 240,
+      "xeffect": "None"
+    },
+    "support": "Change own Specialty to Fire.",
+    "material": 6,
+    "result": 11
+  },
+  {
+    "id": "027",
+    "name": "Agumon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 570,
+    "attacks": {
+      "circle": 380,
+      "triangle": 200,
+      "cross": 120,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Boost own [c] Attack Power +300.",
+    "material": 5,
+    "result": 10
+  },
+  {
+    "id": "028",
+    "name": "Solarmon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 500,
+    "attacks": {
+      "circle": 350,
+      "triangle": 210,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "None",
+    "material": 4,
+    "result": 9
+  },
+  {
+    "id": "029",
+    "name": "Biyomon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 510,
+    "attacks": {
+      "circle": 350,
+      "triangle": 170,
+      "cross": 130,
+      "xeffect": "First Attack"
+    },
+    "support": "Boost own Attack Power +200.",
+    "material": 4,
+    "result": 8
+  },
+  {
+    "id": "030",
+    "name": "Muchomon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 600,
+    "attacks": {
+      "circle": 320,
+      "triangle": 220,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "Boost own [t] Attack Power +300.",
+    "material": 3,
+    "result": 7
+  },
+  {
+    "id": "031",
+    "name": "Candlemon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 480,
+    "attacks": {
+      "circle": 380,
+      "triangle": 270,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Boost own [x] Attack Power +200.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "032",
+    "name": "D-Otamamon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 550,
+    "attacks": {
+      "circle": 300,
+      "triangle": 200,
+      "cross": 150,
+      "xeffect": "Ice ×3"
+    },
+    "support": "If opponent's Specialty is Ice, own Attack Power is doubled.",
+    "material": 2,
+    "result": 5
+  },
+  {
+    "id": "033",
+    "name": "Goburimon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 500,
+    "attacks": {
+      "circle": 300,
+      "triangle": 300,
+      "cross": 300,
+      "xeffect": "None"
+    },
+    "support": "None",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "034",
+    "name": "Vikemon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 2420,
+    "attacks": {
+      "circle": 760,
+      "triangle": 570,
+      "cross": 390,
+      "xeffect": "[c] to 0"
+    },
+    "support": "None",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "035",
+    "name": "Omnimon II",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 60,
+    "p": 10,
+    "hp": 2420,
+    "attacks": {
+      "circle": 550,
+      "triangle": 800,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "Change own Specialty to Ice. Recover own HP by +100.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "036",
+    "name": "MetalSeadramon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 2030,
+    "attacks": {
+      "circle": 700,
+      "triangle": 450,
+      "cross": 400,
+      "xeffect": "Fire ×3"
+    },
+    "support": "If own Specialty is Ice, opponent's Support Effect is voided.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "037",
+    "name": "MetalGarurumon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 2250,
+    "attacks": {
+      "circle": 700,
+      "triangle": 450,
+      "cross": 400,
+      "xeffect": "Fire ×3"
+    },
+    "support": "If own Cards in Hand 3 or more, opponent's Attack Power becomes 0.",
+    "material": 17,
+    "result": 35
+  },
+  {
+    "id": "038",
+    "name": "MarineAngemon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1540,
+    "attacks": {
+      "circle": 630,
+      "triangle": 480,
+      "cross": 220,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Recover own HP by +200.",
+    "material": 17,
+    "result": 34
+  },
+  {
+    "id": "039",
+    "name": "WereGarurumon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1820,
+    "attacks": {
+      "circle": 670,
+      "triangle": 500,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "Add number of DP Cards in DP Slot x100 to own HP.",
+    "material": 16,
+    "result": 33
+  },
+  {
+    "id": "040",
+    "name": "Zudomon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 2090,
+    "attacks": {
+      "circle": 700,
+      "triangle": 300,
+      "cross": 250,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If own Specialty is Ice, opponent's Attack Power is halved.",
+    "material": 16,
+    "result": 32
+  },
+  {
+    "id": "041",
+    "name": "Panjyamon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1800,
+    "attacks": {
+      "circle": 620,
+      "triangle": 390,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "[t] Counterattack. Attack second.",
+    "material": 15,
+    "result": 31
+  },
+  {
+    "id": "042",
+    "name": "MegaSeadramon",
+    "speciality": "Ice",
+    "dp": 40,
+    "p": 20,
+    "hp": 1870,
+    "attacks": {
+      "circle": 650,
+      "triangle": 360,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "[c] Counterattack. Attack second.",
+    "material": 15,
+    "result": 30
+  },
+  {
+    "id": "043",
+    "name": "WaruSeadramon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 40,
+    "p": 10,
+    "hp": 1760,
+    "attacks": {
+      "circle": 650,
+      "triangle": 360,
+      "cross": 200,
+      "xeffect": "Jamming"
+    },
+    "support": "Opponent's Support Effect is voided.",
+    "material": 14,
+    "result": 29
+  },
+  {
+    "id": "044",
+    "name": "Brachiomon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 2300,
+    "attacks": {
+      "circle": 600,
+      "triangle": 380,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Lower opponent's [c] Attack Power to 0.",
+    "material": 14,
+    "result": 28
+  },
+  {
+    "id": "045",
+    "name": "BlueMeramon",
+    "speciality": "Ice",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1430,
+    "attacks": {
+      "circle": 700,
+      "triangle": 480,
+      "cross": 360,
+      "xeffect": "[x] to 0"
+    },
+    "support": "Lower opponent's [x] Attack Power to 0.",
+    "material": 13,
+    "result": 27
+  },
+  {
+    "id": "046",
+    "name": "Garurumon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 1100,
+    "attacks": {
+      "circle": 350,
+      "triangle": 230,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Opponent's uses [c].",
+    "material": 13,
+    "result": 26
+  },
+  {
+    "id": "047",
+    "name": "Ikkakumon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 1200,
+    "attacks": {
+      "circle": 340,
+      "triangle": 250,
+      "cross": 200,
+      "xeffect": "Fire ×3"
+    },
+    "support": "If opponent's Specialty is Fire, own Attack Power is tripled.",
+    "material": 12,
+    "result": 25
+  },
+  {
+    "id": "048",
+    "name": "Dolphmon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 1000,
+    "attacks": {
+      "circle": 330,
+      "triangle": 290,
+      "cross": 200,
+      "xeffect": "[x] to 0"
+    },
+    "support": "If opponent's Attack is not [c], recover own HP by +300.",
+    "material": 12,
+    "result": 24
+  },
+  {
+    "id": "049",
+    "name": "Whamon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 1300,
+    "attacks": {
+      "circle": 340,
+      "triangle": 220,
+      "cross": 150,
+      "xeffect": "[t] to 0"
+    },
+    "support": "Own HP become 700.",
+    "material": 11,
+    "result": 23
+  },
+  {
+    "id": "050",
+    "name": "Seadramon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 1150,
+    "attacks": {
+      "circle": 360,
+      "triangle": 250,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Opponent's Attack Power is halved.",
+    "material": 11,
+    "result": 22
+  },
+  {
+    "id": "051",
+    "name": "Gekomon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 1030,
+    "attacks": {
+      "circle": 400,
+      "triangle": 250,
+      "cross": 160,
+      "xeffect": "[c] to 0"
+    },
+    "support": "None",
+    "material": 10,
+    "result": 21
+  },
+  {
+    "id": "052",
+    "name": "Frigimon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 990,
+    "attacks": {
+      "circle": 350,
+      "triangle": 200,
+      "cross": 170,
+      "xeffect": "Fire ×3"
+    },
+    "support": "Recover own HP by +200.",
+    "material": 10,
+    "result": 20
+  },
+  {
+    "id": "053",
+    "name": "Gekomon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 960,
+    "attacks": {
+      "circle": 340,
+      "triangle": 220,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Change opponent's Specialty to Ice.",
+    "material": 9,
+    "result": 19
+  },
+  {
+    "id": "054",
+    "name": "Coelamon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 50,
+    "p": 10,
+    "hp": 1270,
+    "attacks": {
+      "circle": 400,
+      "triangle": 290,
+      "cross": 210,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Lower opponent's [c] Attack Power to 0.",
+    "material": 9,
+    "result": 18
+  },
+  {
+    "id": "055",
+    "name": "Mojyamon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 980,
+    "attacks": {
+      "circle": 370,
+      "triangle": 290,
+      "cross": 210,
+      "xeffect": "None"
+    },
+    "support": "Recover own HP by +200.",
+    "material": 8,
+    "result": 17
+  },
+  {
+    "id": "056",
+    "name": "Shellmon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 1250,
+    "attacks": {
+      "circle": 340,
+      "triangle": 200,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If opponent used [c], change it to [x].",
+    "material": 8,
+    "result": 16
+  },
+  {
+    "id": "057",
+    "name": "Sorcerimon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 900,
+    "attacks": {
+      "circle": 440,
+      "triangle": 370,
+      "cross": 170,
+      "xeffect": "Jamming"
+    },
+    "support": "Change own Specialty to Ice.",
+    "material": 7,
+    "result": 15
+  },
+  {
+    "id": "058",
+    "name": "IceDevimon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 990,
+    "attacks": {
+      "circle": 390,
+      "triangle": 290,
+      "cross": 180,
+      "xeffect": "Fire ×3"
+    },
+    "support": "If opponent's Specialty is Fire, own Attack Power is tripled.",
+    "material": 7,
+    "result": 14
+  },
+  {
+    "id": "059",
+    "name": "Hyogamon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1200,
+    "attacks": {
+      "circle": 460,
+      "triangle": 250,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "None",
+    "material": 6,
+    "result": 13
+  },
+  {
+    "id": "060",
+    "name": "Icemon",
+    "speciality": "Ice",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 1140,
+    "attacks": {
+      "circle": 370,
+      "triangle": 240,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "None",
+    "material": 6,
+    "result": 12
+  },
+  {
+    "id": "061",
+    "name": "Gomamon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 700,
+    "attacks": {
+      "circle": 300,
+      "triangle": 240,
+      "cross": 200,
+      "xeffect": "[t] to 0"
+    },
+    "support": "Lower opponent's [t] Attack Power to 0.",
+    "material": 5,
+    "result": 11
+  },
+  {
+    "id": "062",
+    "name": "Gabumon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 680,
+    "attacks": {
+      "circle": 350,
+      "triangle": 220,
+      "cross": 140,
+      "xeffect": "[c] to 0"
+    },
+    "support": "None",
+    "material": 5,
+    "result": 10
+  },
+  {
+    "id": "063",
+    "name": "Betamon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 730,
+    "attacks": {
+      "circle": 300,
+      "triangle": 190,
+      "cross": 170,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If own HP are less than 200, reduce opponent's Attack Power to 0.",
+    "material": 4,
+    "result": 9
+  },
+  {
+    "id": "064",
+    "name": "Penguinmon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 670,
+    "attacks": {
+      "circle": 320,
+      "triangle": 180,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "If opponent's Specialty is Fire, reduce opponent's Attack Power to 0.",
+    "material": 4,
+    "result": 8
+  },
+  {
+    "id": "065",
+    "name": "Gizamon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 650,
+    "attacks": {
+      "circle": 260,
+      "triangle": 200,
+      "cross": 150,
+      "xeffect": "Fire ×3"
+    },
+    "support": "If opponent's Specialty is Fire, own Attack Power is doubled.",
+    "material": 3,
+    "result": 7
+  },
+  {
+    "id": "066",
+    "name": "Otamamon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 710,
+    "attacks": {
+      "circle": 330,
+      "triangle": 130,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Reduce opponent's [c] Attack Power to 0.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "067",
+    "name": "SnowAgumon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 720,
+    "attacks": {
+      "circle": 160,
+      "triangle": 200,
+      "cross": 220,
+      "xeffect": "[x] to 0"
+    },
+    "support": "Reduce opponent's [x] Attack Power to 0.",
+    "material": 2,
+    "result": 5
+  },
+  {
+    "id": "068",
+    "name": "SnowGoburimon",
+    "speciality": "Ice",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 770,
+    "attacks": {
+      "circle": 230,
+      "triangle": 230,
+      "cross": 230,
+      "xeffect": "None"
+    },
+    "support": "None",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "069",
+    "name": "Valkyrimon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1590,
+    "attacks": {
+      "circle": 840,
+      "triangle": 550,
+      "cross": 350,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Opponent uses [c].",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "070",
+    "name": "Seraphimon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1650,
+    "attacks": {
+      "circle": 900,
+      "triangle": 510,
+      "cross": 420,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "If opponent's Specialty is Darkness, own Attack Power is +200 & HP +200.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "071",
+    "name": "Magnadramon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1870,
+    "attacks": {
+      "circle": 800,
+      "triangle": 610,
+      "cross": 370,
+      "xeffect": "[x] to 0"
+    },
+    "support": "[x] Counterattack. Attack second.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "072",
+    "name": "AeroVeedramon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1430,
+    "attacks": {
+      "circle": 750,
+      "triangle": 550,
+      "cross": 360,
+      "xeffect": "First Attack"
+    },
+    "support": "If opponent's Level is U, own Attack Power is doubled.",
+    "material": 17,
+    "result": 0
+  },
+  {
+    "id": "073",
+    "name": "Rosemon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 30,
+    "hp": 1210,
+    "attacks": {
+      "circle": 720,
+      "triangle": 480,
+      "cross": 320,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "If opponent's HP are 1000+, own attack becomes \"Eat-up HP\".",
+    "material": 17,
+    "result": 0
+  },
+  {
+    "id": "074",
+    "name": "HerculesKabuterimon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1700,
+    "attacks": {
+      "circle": 790,
+      "triangle": 490,
+      "cross": 250,
+      "xeffect": "First Attack"
+    },
+    "support": "None",
+    "material": 17,
+    "result": 32
+  },
+  {
+    "id": "075",
+    "name": "MagnaAngemon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1320,
+    "attacks": {
+      "circle": 770,
+      "triangle": 570,
+      "cross": 370,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "If opponent's Specialty is Darkness, boost own Attack Power +500.",
+    "material": 16,
+    "result": 31
+  },
+  {
+    "id": "076",
+    "name": "Silphymon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1540,
+    "attacks": {
+      "circle": 680,
+      "triangle": 500,
+      "cross": 400,
+      "xeffect": "[t] to 0"
+    },
+    "support": "If opponent's Specialty is not Nature, attack first.",
+    "material": 16,
+    "result": 30
+  },
+  {
+    "id": "077",
+    "name": "Angewomon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 30,
+    "hp": 1370,
+    "attacks": {
+      "circle": 720,
+      "triangle": 520,
+      "cross": 330,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "If opponent's Specialty is Darkness, recover own HP +500.",
+    "material": 15,
+    "result": 29
+  },
+  {
+    "id": "078",
+    "name": "Lilimon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 30,
+    "p": 30,
+    "hp": 1100,
+    "attacks": {
+      "circle": 650,
+      "triangle": 340,
+      "cross": 200,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Recover own HP by +200.",
+    "material": 15,
+    "result": 28
+  },
+  {
+    "id": "079",
+    "name": "MegaKabuterimon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 30,
+    "p": 20,
+    "hp": 1480,
+    "attacks": {
+      "circle": 700,
+      "triangle": 400,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "None",
+    "material": 14,
+    "result": 27
+  },
+  {
+    "id": "080",
+    "name": "Piximon",
+    "speciality": "Nature",
+    "level": "U",
+    "dp": 40,
+    "p": 30,
+    "hp": 1370,
+    "attacks": {
+      "circle": 670,
+      "triangle": 430,
+      "cross": 320,
+      "xeffect": "None"
+    },
+    "support": "Opponent's Support Effect is voided. Own Attack Power is halved.",
+    "material": 14,
+    "result": 26
+  },
+  {
+    "id": "081",
+    "name": "Veedramon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 880,
+    "attacks": {
+      "circle": 500,
+      "triangle": 360,
+      "cross": 200,
+      "xeffect": "First Attack"
+    },
+    "support": "If own Level is U, own Attack Power is doubled.",
+    "material": 13,
+    "result": 25
+  },
+  {
+    "id": "082",
+    "name": "Angemon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 940,
+    "attacks": {
+      "circle": 400,
+      "triangle": 200,
+      "cross": 260,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "If opponent's Specialty is Darkness, own Attack Power is tripled.",
+    "material": 13,
+    "result": 24
+  },
+  {
+    "id": "083",
+    "name": "R-Gatomon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 750,
+    "attacks": {
+      "circle": 410,
+      "triangle": 300,
+      "cross": 210,
+      "xeffect": "[x] to 0"
+    },
+    "support": "If own HP are less than 500, boost own Attack Power +300.",
+    "material": 12,
+    "result": 23
+  },
+  {
+    "id": "084",
+    "name": "Togemon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 30,
+    "hp": 800,
+    "attacks": {
+      "circle": 380,
+      "triangle": 250,
+      "cross": 170,
+      "xeffect": "[t] to 0"
+    },
+    "support": "Boost own Attack Power +100.",
+    "material": 11,
+    "result": 22
+  },
+  {
+    "id": "085",
+    "name": "Leomon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 890,
+    "attacks": {
+      "circle": 430,
+      "triangle": 280,
+      "cross": 200,
+      "xeffect": "None"
+    },
+    "support": "If own Level is lower, boost own Attack Power +500.",
+    "material": 11,
+    "result": 21
+  },
+  {
+    "id": "086",
+    "name": "Kabuterimon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 950,
+    "attacks": {
+      "circle": 550,
+      "triangle": 360,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "None",
+    "material": 11,
+    "result": 20
+  },
+  {
+    "id": "087",
+    "name": "Airdramon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 950,
+    "attacks": {
+      "circle": 430,
+      "triangle": 200,
+      "cross": 50,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Recover own HP by +100. Boost own Attack Power +100.",
+    "material": 10,
+    "result": 19
+  },
+  {
+    "id": "088",
+    "name": "Unimon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 950,
+    "attacks": {
+      "circle": 390,
+      "triangle": 210,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.",
+    "material": 10,
+    "result": 18
+  },
+  {
+    "id": "089",
+    "name": "Ninjamon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 30,
+    "hp": 650,
+    "attacks": {
+      "circle": 440,
+      "triangle": 350,
+      "cross": 250,
+      "xeffect": "First Attack"
+    },
+    "support": "Attack first.",
+    "material": 9,
+    "result": 17
+  },
+  {
+    "id": "090",
+    "name": "Kuwagamon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 20,
+    "hp": 900,
+    "attacks": {
+      "circle": 530,
+      "triangle": 400,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "None",
+    "material": 9,
+    "result": 16
+  },
+  {
+    "id": "091",
+    "name": "Drimogemon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 850,
+    "attacks": {
+      "circle": 450,
+      "triangle": 310,
+      "cross": 280,
+      "xeffect": "None"
+    },
+    "support": "Boost own Attack Power +200.",
+    "material": 8,
+    "result": 15
+  },
+  {
+    "id": "092",
+    "name": "Vegiemon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 810,
+    "attacks": {
+      "circle": 390,
+      "triangle": 270,
+      "cross": 100,
+      "xeffect": "Jamming"
+    },
+    "support": "Change opponent's Specialty to Nature.",
+    "material": 8,
+    "result": 14
+  },
+  {
+    "id": "093",
+    "name": "Kokatrimon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 20,
+    "hp": 910,
+    "attacks": {
+      "circle": 350,
+      "triangle": 260,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Lower opponent's Attack Power to 0. Opponent's HP are doubled.",
+    "material": 7,
+    "result": 13
+  },
+  {
+    "id": "094",
+    "name": "Yanmamon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 20,
+    "p": 20,
+    "hp": 740,
+    "attacks": {
+      "circle": 400,
+      "triangle": 250,
+      "cross": 170,
+      "xeffect": "First Attack"
+    },
+    "support": "None",
+    "material": 7,
+    "result": 12
+  },
+  {
+    "id": "095",
+    "name": "J-Mojyamon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 30,
+    "p": 30,
+    "hp": 750,
+    "attacks": {
+      "circle": 280,
+      "triangle": 250,
+      "cross": 180,
+      "xeffect": "None"
+    },
+    "support": "If own Level is R, boost own Attack Power +300.",
+    "material": 6,
+    "result": 11
+  },
+  {
+    "id": "096",
+    "name": "MoriShellmon",
+    "speciality": "Nature",
+    "level": "C",
+    "dp": 40,
+    "p": 30,
+    "hp": 910,
+    "attacks": {
+      "circle": 390,
+      "triangle": 240,
+      "cross": 190,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power -200.",
+    "material": 6,
+    "result": 10
+  },
+  {
+    "id": "097",
+    "name": "Tentomon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 670,
+    "attacks": {
+      "circle": 380,
+      "triangle": 220,
+      "cross": 160,
+      "xeffect": "[c] to 0"
+    },
+    "support": "None",
+    "material": 5,
+    "result": 9
+  },
+  {
+    "id": "098",
+    "name": "Palmon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 500,
+    "attacks": {
+      "circle": 370,
+      "triangle": 240,
+      "cross": 160,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "None",
+    "material": 4,
+    "result": 8
+  },
+  {
+    "id": "099",
+    "name": "Salamon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 600,
+    "attacks": {
+      "circle": 300,
+      "triangle": 230,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "Change own Specialty to Nature. Draw 1 Card.",
+    "material": 4,
+    "result": 7
+  },
+  {
+    "id": "100",
+    "name": "Elecmon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 650,
+    "attacks": {
+      "circle": 310,
+      "triangle": 240,
+      "cross": 130,
+      "xeffect": "Ice ×3"
+    },
+    "support": "If opponent's Specialty is Ice, boost own Attack Power +300.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "101",
+    "name": "Gotsumon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 700,
+    "attacks": {
+      "circle": 290,
+      "triangle": 180,
+      "cross": 130,
+      "xeffect": "[x] to 0"
+    },
+    "support": "If own HP are more than opponent's HP, own Attack Power is doubled.",
+    "material": 3,
+    "result": 5
+  },
+  {
+    "id": "102",
+    "name": "Kunemon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 680,
+    "attacks": {
+      "circle": 350,
+      "triangle": 220,
+      "cross": 190,
+      "xeffect": "Jamming"
+    },
+    "support": "Lower both Attack Power's -200.",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "103",
+    "name": "Apokarimon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 70,
+    "p": 0,
+    "hp": 2750,
+    "attacks": {
+      "circle": 990,
+      "triangle": 680,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Own HP are halved. Change own Specialty to Darkness.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "104",
+    "name": "GranKuwagamon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1760,
+    "attacks": {
+      "circle": 800,
+      "triangle": 700,
+      "cross": 600,
+      "xeffect": "None"
+    },
+    "support": "Discard 7 Cards from own Online Deck. Opponent's HP are halved.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "105",
+    "name": "Diaboromon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 70,
+    "p": 0,
+    "hp": 2580,
+    "attacks": {
+      "circle": 970,
+      "triangle": 720,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Own HP become 10. Change opponent's Specialty to Darkness.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "106",
+    "name": "VenomMyotismon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 60,
+    "p": 0,
+    "hp": 2310,
+    "attacks": {
+      "circle": 920,
+      "triangle": 530,
+      "cross": 400,
+      "xeffect": "Nature ×3"
+    },
+    "support": "None",
+    "material": 17,
+    "result": 0
+  },
+  {
+    "id": "107",
+    "name": "Piedmon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1650,
+    "attacks": {
+      "circle": 800,
+      "triangle": 500,
+      "cross": 400,
+      "xeffect": "Jamming"
+    },
+    "support": "Both players discard all Cards in Hands.",
+    "material": 18,
+    "result": 35
+  },
+  {
+    "id": "108",
+    "name": "Machinedramon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 60,
+    "p": 0,
+    "hp": 2400,
+    "attacks": {
+      "circle": 980,
+      "triangle": 520,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "None",
+    "material": 17,
+    "result": 34
+  },
+  {
+    "id": "109",
+    "name": "Infermon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 20,
+    "p": 0,
+    "hp": 1100,
+    "attacks": {
+      "circle": 610,
+      "triangle": 370,
+      "cross": 180,
+      "xeffect": "Jamming"
+    },
+    "support": "Discard 5 Cards from own Online Deck. Boost own Attack Power +400.",
+    "material": 17,
+    "result": 33
+  },
+  {
+    "id": "110",
+    "name": "LadyDevimon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1150,
+    "attacks": {
+      "circle": 620,
+      "triangle": 360,
+      "cross": 250,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Both players boost Attack Power +200.",
+    "material": 16,
+    "result": 32
+  },
+  {
+    "id": "111",
+    "name": "Myotismon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 1100,
+    "attacks": {
+      "circle": 650,
+      "triangle": 400,
+      "cross": 300,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Digimon KO'd in battle revives with 500 HP. Battle is still lost.",
+    "material": 16,
+    "result": 31
+  },
+  {
+    "id": "112",
+    "name": "Megadramon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 50,
+    "p": 0,
+    "hp": 1810,
+    "attacks": {
+      "circle": 920,
+      "triangle": 290,
+      "cross": 300,
+      "xeffect": "First Attack"
+    },
+    "support": "Both players' HP are halved.",
+    "material": 15,
+    "result": 30
+  },
+  {
+    "id": "113",
+    "name": "SkullGreymon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 50,
+    "p": 0,
+    "hp": 1700,
+    "attacks": {
+      "circle": 960,
+      "triangle": 350,
+      "cross": 450,
+      "xeffect": "Nature ×3"
+    },
+    "support": "If opponent's Specialty is Nature, opponent discards all Cards.",
+    "material": 15,
+    "result": 29
+  },
+  {
+    "id": "114",
+    "name": "Phantomon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 30,
+    "p": 0,
+    "hp": 1100,
+    "attacks": {
+      "circle": 600,
+      "triangle": 400,
+      "cross": 300,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Discard 7 Cards from own Online Deck, own Attack is \"Eat-up HP\".",
+    "material": 14,
+    "result": 28
+  },
+  {
+    "id": "115",
+    "name": "WaruMonzaemon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 40,
+    "p": 0,
+    "hp": 1590,
+    "attacks": {
+      "circle": 700,
+      "triangle": 440,
+      "cross": 200,
+      "xeffect": "Jamming"
+    },
+    "support": "Own HP become 10. Own Attack Power is doubled.",
+    "material": 19,
+    "result": 27
+  },
+  {
+    "id": "116",
+    "name": "Andromon",
+    "speciality": "Darkness",
+    "level": "U",
+    "dp": 40,
+    "p": 10,
+    "hp": 1700,
+    "attacks": {
+      "circle": 690,
+      "triangle": 590,
+      "cross": 150,
+      "xeffect": "None"
+    },
+    "support": "Own HP are halved. Boost own Attack Power +400.",
+    "material": 13,
+    "result": 26
+  },
+  {
+    "id": "117",
+    "name": "Stingmon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 880,
+    "attacks": {
+      "circle": 530,
+      "triangle": 370,
+      "cross": 270,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Discard 1 DP Card from own DP Slot. Boost own Attack Power +200.",
+    "material": 13,
+    "result": 25
+  },
+  {
+    "id": "118",
+    "name": "Wizardmon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 850,
+    "attacks": {
+      "circle": 540,
+      "triangle": 370,
+      "cross": 220,
+      "xeffect": "Jamming"
+    },
+    "support": "Discard all Cards in own Hand, then draw 2 Cards.",
+    "material": 12,
+    "result": 24
+  },
+  {
+    "id": "119",
+    "name": "Devidramon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 50,
+    "p": 10,
+    "hp": 1100,
+    "attacks": {
+      "circle": 520,
+      "triangle": 440,
+      "cross": 370,
+      "xeffect": "None"
+    },
+    "support": "Own Attack becomes [t].",
+    "material": 12,
+    "result": 23
+  },
+  {
+    "id": "120",
+    "name": "Devimon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 960,
+    "attacks": {
+      "circle": 490,
+      "triangle": 350,
+      "cross": 250,
+      "xeffect": "Nature ×3"
+    },
+    "support": "If opponent's Specialty is Nature, own Attack Power is tripled.",
+    "material": 11,
+    "result": 22
+  },
+  {
+    "id": "121",
+    "name": "Tuskmon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1150,
+    "attacks": {
+      "circle": 410,
+      "triangle": 360,
+      "cross": 300,
+      "xeffect": "None"
+    },
+    "support": "Own Attack becomes [x].",
+    "material": 11,
+    "result": 21
+  },
+  {
+    "id": "122",
+    "name": "Ogremon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1050,
+    "attacks": {
+      "circle": 530,
+      "triangle": 320,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "Discard Cards in own DP Slot and multiply Attack Power by number of discards.",
+    "material": 10,
+    "result": 20
+  },
+  {
+    "id": "123",
+    "name": "Bakemon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 860,
+    "attacks": {
+      "circle": 450,
+      "triangle": 270,
+      "cross": 170,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Change own Specialty to Darkness.",
+    "material": 10,
+    "result": 19
+  },
+  {
+    "id": "124",
+    "name": "Guardromon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 20,
+    "p": 10,
+    "hp": 750,
+    "attacks": {
+      "circle": 430,
+      "triangle": 200,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Own HP are halved. Boost own Attack Power +300.",
+    "material": 9,
+    "result": 18
+  },
+  {
+    "id": "125",
+    "name": "Tekkamon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 1100,
+    "attacks": {
+      "circle": 350,
+      "triangle": 200,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Both players boost Attack Power +300.",
+    "material": 9,
+    "result": 17
+  },
+  {
+    "id": "126",
+    "name": "Gururumon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1040,
+    "attacks": {
+      "circle": 470,
+      "triangle": 340,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Both players use [t].",
+    "material": 8,
+    "result": 16
+  },
+  {
+    "id": "127",
+    "name": "Soulmon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 0,
+    "hp": 500,
+    "attacks": {
+      "circle": 330,
+      "triangle": 310,
+      "cross": 290,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Discard 1 DP Card from own DP Slot. Change opponent's Specialty to Darkness.",
+    "material": 8,
+    "result": 15
+  },
+  {
+    "id": "128",
+    "name": "Fugamon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 940,
+    "attacks": {
+      "circle": 460,
+      "triangle": 430,
+      "cross": 400,
+      "xeffect": "None"
+    },
+    "support": "Own Attack becomes [c].",
+    "material": 7,
+    "result": 14
+  },
+  {
+    "id": "129",
+    "name": "Saberdramon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 670,
+    "attacks": {
+      "circle": 400,
+      "triangle": 150,
+      "cross": 240,
+      "xeffect": "First Attack"
+    },
+    "support": "Both players use [x].",
+    "material": 7,
+    "result": 13
+  },
+  {
+    "id": "130",
+    "name": "Darkrizamon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 890,
+    "attacks": {
+      "circle": 330,
+      "triangle": 440,
+      "cross": 30,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Both players use [c].",
+    "material": 6,
+    "result": 12
+  },
+  {
+    "id": "131",
+    "name": "Zassomon",
+    "speciality": "Darkness",
+    "level": "C",
+    "dp": 20,
+    "p": 0,
+    "hp": 600,
+    "attacks": {
+      "circle": 480,
+      "triangle": 410,
+      "cross": 350,
+      "xeffect": "None"
+    },
+    "support": "Opponent's Attack Power becomes 300.",
+    "material": 6,
+    "result": 11
+  },
+  {
+    "id": "132",
+    "name": "DemiDevimon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 490,
+    "attacks": {
+      "circle": 360,
+      "triangle": 200,
+      "cross": 190,
+      "xeffect": "Nature ×3"
+    },
+    "support": "If opponent's Specialty is Nature, own Attack Power is doubled.",
+    "material": 5,
+    "result": 10
+  },
+  {
+    "id": "133",
+    "name": "BKGatomon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 520,
+    "attacks": {
+      "circle": 360,
+      "triangle": 300,
+      "cross": 240,
+      "xeffect": "[x] to 0"
+    },
+    "support": "If opponent's Level is A, opponent's HP are halved.",
+    "material": 4,
+    "result": 9
+  },
+  {
+    "id": "134",
+    "name": "Kokuwamon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 670,
+    "attacks": {
+      "circle": 270,
+      "triangle": 240,
+      "cross": 200,
+      "xeffect": "[t] to 0"
+    },
+    "support": "Reduce own Attack Power by -100. Recover own HP by +200.",
+    "material": 4,
+    "result": 8
+  },
+  {
+    "id": "135",
+    "name": "Tsukaimon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 630,
+    "attacks": {
+      "circle": 240,
+      "triangle": 200,
+      "cross": 160,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Boost own Attack Power +200. [c] &amp; [t] Attack Power are 0.",
+    "material": 3,
+    "result": 7
+  },
+  {
+    "id": "136",
+    "name": "Dokunemon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 650,
+    "attacks": {
+      "circle": 280,
+      "triangle": 220,
+      "cross": 190,
+      "xeffect": "Rare ×3"
+    },
+    "support": "If opponent's Specialty is Rare, opponent's HP become 100.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "137",
+    "name": "Aruraumon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 420,
+    "attacks": {
+      "circle": 340,
+      "triangle": 240,
+      "cross": 190,
+      "xeffect": "Eat-Up HP"
+    },
+    "support": "Own Attack becomes \"Eat-up HP\". Own Attack Power is halved.",
+    "material": 2,
+    "result": 5
+  },
+  {
+    "id": "138",
+    "name": "Sharmamon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 570,
+    "attacks": {
+      "circle": 350,
+      "triangle": 220,
+      "cross": 100,
+      "xeffect": "Jamming"
+    },
+    "support": "Opponent's HP are halved. Opponent's Attack Power is doubled.",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "139",
+    "name": "Puppetmon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1540,
+    "attacks": {
+      "circle": 790,
+      "triangle": 570,
+      "cross": 380,
+      "xeffect": "Jamming"
+    },
+    "support": "Discard 1 of opponent's Cards in DP Slot. Draw 1 Card.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "140",
+    "name": "SuperStarmon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1650,
+    "attacks": {
+      "circle": 730,
+      "triangle": 600,
+      "cross": 380,
+      "xeffect": "Rare ×3"
+    },
+    "support": "If opponent's Specialty is Rare, lower opponent's Attack Power to 0.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "141",
+    "name": "MetalEtemon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1650,
+    "attacks": {
+      "circle": 300,
+      "triangle": 750,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "[c] Counterattack. Attack second.",
+    "material": 17,
+    "result": 0
+  },
+  {
+    "id": "142",
+    "name": "Shakkoumon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1760,
+    "attacks": {
+      "circle": 680,
+      "triangle": 520,
+      "cross": 300,
+      "xeffect": "Jamming"
+    },
+    "support": "Recover own HP by +100. Boost own [x] Attack Power by +100.",
+    "material": 17,
+    "result": 33
+  },
+  {
+    "id": "143",
+    "name": "Jijimon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1260,
+    "attacks": {
+      "circle": 650,
+      "triangle": 560,
+      "cross": 250,
+      "xeffect": "[t] to 0"
+    },
+    "support": "If opponent's Specialty is Darkness, lower opponent's Attack Power to 0.",
+    "material": 16,
+    "result": 32
+  },
+  {
+    "id": "144",
+    "name": "Digitamamon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 50,
+    "p": 10,
+    "hp": 1810,
+    "attacks": {
+      "circle": 800,
+      "triangle": 540,
+      "cross": 300,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Swap own Specialty with opponent's Specialty.",
+    "material": 16,
+    "result": 31
+  },
+  {
+    "id": "145",
+    "name": "Vademon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 40,
+    "p": 10,
+    "hp": 1370,
+    "attacks": {
+      "circle": 850,
+      "triangle": 600,
+      "cross": 200,
+      "xeffect": "Jamming"
+    },
+    "support": "Opponent's Specialty becomes the same as own Specialty.",
+    "material": 15,
+    "result": 30
+  },
+  {
+    "id": "146",
+    "name": "Giromon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1900,
+    "attacks": {
+      "circle": 720,
+      "triangle": 520,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Opponent uses [x].",
+    "material": 15,
+    "result": 29
+  },
+  {
+    "id": "147",
+    "name": "Monzaemon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 50,
+    "p": 20,
+    "hp": 2030,
+    "attacks": {
+      "circle": 850,
+      "triangle": 500,
+      "cross": 430,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "Recover own HP by +200. Boost own Attack Power by +100.",
+    "material": 14,
+    "result": 28
+  },
+  {
+    "id": "148",
+    "name": "MetalMamemon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1920,
+    "attacks": {
+      "circle": 770,
+      "triangle": 570,
+      "cross": 280,
+      "xeffect": "First Attack"
+    },
+    "support": "None",
+    "material": 14,
+    "result": 27
+  },
+  {
+    "id": "149",
+    "name": "Mamemon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 30,
+    "p": 10,
+    "hp": 1700,
+    "attacks": {
+      "circle": 820,
+      "triangle": 650,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "None",
+    "material": 13,
+    "result": 26
+  },
+  {
+    "id": "150",
+    "name": "Etemon",
+    "speciality": "Rare",
+    "level": "U",
+    "dp": 40,
+    "p": 20,
+    "hp": 1480,
+    "attacks": {
+      "circle": 700,
+      "triangle": 530,
+      "cross": 150,
+      "xeffect": "Jamming"
+    },
+    "support": "Lower opponent's [x] Attack Power to 0.",
+    "material": 13,
+    "result": 25
+  },
+  {
+    "id": "151",
+    "name": "Ankylomon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 1000,
+    "attacks": {
+      "circle": 420,
+      "triangle": 240,
+      "cross": 130,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If opponent has more than 2 Cards in DP Slot, his Attack Power is 0.",
+    "material": 12,
+    "result": 24
+  },
+  {
+    "id": "152",
+    "name": "Starmon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 900,
+    "attacks": {
+      "circle": 470,
+      "triangle": 370,
+      "cross": 230,
+      "xeffect": "Darkness ×3"
+    },
+    "support": "If opponent's Specialty is Darkness, opponent's Support Effect is voided.",
+    "material": 12,
+    "result": 23
+  },
+  {
+    "id": "153",
+    "name": "Thundermon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 710,
+    "attacks": {
+      "circle": 350,
+      "triangle": 300,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "If opponent used [x], discard all Cards in opponent's Hand.",
+    "material": 11,
+    "result": 22
+  },
+  {
+    "id": "154",
+    "name": "PlatinumSukamon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 850,
+    "attacks": {
+      "circle": 240,
+      "triangle": 200,
+      "cross": 100,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Move the top Card from Offline Pile to Online Deck.",
+    "material": 11,
+    "result": 21
+  },
+  {
+    "id": "155",
+    "name": "ShellNumemon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 900,
+    "attacks": {
+      "circle": 250,
+      "triangle": 150,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Discard opponent's top DP Card shown in DP Slot.",
+    "material": 10,
+    "result": 20
+  },
+  {
+    "id": "156",
+    "name": "Nanimon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 0,
+    "hp": 700,
+    "attacks": {
+      "circle": 390,
+      "triangle": 270,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "Return all Cards in own Hand to Online Deck and Shuffle.",
+    "material": 10,
+    "result": 19
+  },
+  {
+    "id": "157",
+    "name": "Numemon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 700,
+    "attacks": {
+      "circle": 250,
+      "triangle": 250,
+      "cross": 100,
+      "xeffect": "[x] to 0"
+    },
+    "support": "Discard opponent's 2 top DP Cards in his DP Slot.",
+    "material": 9,
+    "result": 18
+  },
+  {
+    "id": "158",
+    "name": "Sukamon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 600,
+    "attacks": {
+      "circle": 300,
+      "triangle": 150,
+      "cross": 200,
+      "xeffect": "Jamming"
+    },
+    "support": "Discard 1 Card from opponent's Hand at random.",
+    "material": 9,
+    "result": 17
+  },
+  {
+    "id": "159",
+    "name": "Rockmon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 40,
+    "p": 10,
+    "hp": 700,
+    "attacks": {
+      "circle": 350,
+      "triangle": 160,
+      "cross": 250,
+      "xeffect": "Rare ×3"
+    },
+    "support": "Discard 3 Cards from opponent's Online Deck.",
+    "material": 8,
+    "result": 16
+  },
+  {
+    "id": "160",
+    "name": "Geremon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 690,
+    "attacks": {
+      "circle": 280,
+      "triangle": 330,
+      "cross": 120,
+      "xeffect": "None"
+    },
+    "support": "Discard all Cards in DP Slot. Foe discards same number of DP Cards.",
+    "material": 8,
+    "result": 15
+  },
+  {
+    "id": "161",
+    "name": "NiseDrimogemon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 750,
+    "attacks": {
+      "circle": 400,
+      "triangle": 300,
+      "cross": 220,
+      "xeffect": "Rare ×3"
+    },
+    "support": "Opponent uses [t].",
+    "material": 7,
+    "result": 14
+  },
+  {
+    "id": "162",
+    "name": "ShimaUnimon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 800,
+    "attacks": {
+      "circle": 430,
+      "triangle": 250,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "None",
+    "material": 7,
+    "result": 13
+  },
+  {
+    "id": "163",
+    "name": "MudFrigimon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 30,
+    "p": 10,
+    "hp": 930,
+    "attacks": {
+      "circle": 480,
+      "triangle": 360,
+      "cross": 320,
+      "xeffect": "None"
+    },
+    "support": "None",
+    "material": 6,
+    "result": 12
+  },
+  {
+    "id": "164",
+    "name": "SandYanmamon",
+    "speciality": "Rare",
+    "level": "C",
+    "dp": 20,
+    "p": 10,
+    "hp": 600,
+    "attacks": {
+      "circle": 250,
+      "triangle": 340,
+      "cross": 210,
+      "xeffect": "First Attack"
+    },
+    "support": "Opponent uses [c]. Lower opponent's Attack Power -100.",
+    "material": 6,
+    "result": 11
+  },
+  {
+    "id": "165",
+    "name": "L-ToyAgumon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 590,
+    "attacks": {
+      "circle": 270,
+      "triangle": 210,
+      "cross": 180,
+      "xeffect": "None"
+    },
+    "support": "If 1 or less Cards left in own Hand, opponent's Attack Power goes to 0.",
+    "material": 5,
+    "result": 10
+  },
+  {
+    "id": "166",
+    "name": "Hagurumon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 500,
+    "attacks": {
+      "circle": 240,
+      "triangle": 200,
+      "cross": 0,
+      "xeffect": "Crash"
+    },
+    "support": "Discard all Cards in DP Slot. Recover HP, number of discards x100.",
+    "material": 4,
+    "result": 9
+  },
+  {
+    "id": "167",
+    "name": "ToyAgumon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 530,
+    "attacks": {
+      "circle": 280,
+      "triangle": 130,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "Discard 1 Card at random from own Hand. HP of both Players are 200.",
+    "material": 4,
+    "result": 8
+  },
+  {
+    "id": "168",
+    "name": "ClearAgumon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 580,
+    "attacks": {
+      "circle": 270,
+      "triangle": 220,
+      "cross": 50,
+      "xeffect": "Jamming"
+    },
+    "support": "Opponent's Support Effect is voided.",
+    "material": 3,
+    "result": 7
+  },
+  {
+    "id": "169",
+    "name": "Vi-Elecmon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 620,
+    "attacks": {
+      "circle": 260,
+      "triangle": 220,
+      "cross": 190,
+      "xeffect": "Rare ×3"
+    },
+    "support": "None",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "170",
+    "name": "Psychemon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 470,
+    "attacks": {
+      "circle": 250,
+      "triangle": 120,
+      "cross": 90,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Own HP become same as opponent's",
+    "material": 2,
+    "result": 5
+  },
+  {
+    "id": "171",
+    "name": "ModokiBetamon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 550,
+    "attacks": {
+      "circle": 120,
+      "triangle": 280,
+      "cross": 190,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Opponent's HP become same as own. Own Attack Power becomes 0.",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "172",
+    "name": "Flamedramon",
+    "speciality": "Fire",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 600,
+    "attacks": {
+      "circle": 500,
+      "triangle": 350,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Boost own Attack Power +100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "173",
+    "name": "Magnamon",
+    "speciality": "Fire",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 650,
+    "attacks": {
+      "circle": 550,
+      "triangle": 300,
+      "cross": 200,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Boost own Attack Power +100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "174",
+    "name": "Baronmon",
+    "speciality": "Fire",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 600,
+    "attacks": {
+      "circle": 550,
+      "triangle": 450,
+      "cross": 150,
+      "xeffect": "[c] to 0"
+    },
+    "support": "If foe's Specialty is Darkness, own Attack Power is Doubled. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "175",
+    "name": "Veemon",
+    "speciality": "Fire",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 550,
+    "attacks": {
+      "circle": 350,
+      "triangle": 280,
+      "cross": 200,
+      "xeffect": "None"
+    },
+    "support": "Boost own Attack Power +100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "176",
+    "name": "Submarimon",
+    "speciality": "Ice",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 850,
+    "attacks": {
+      "circle": 400,
+      "triangle": 300,
+      "cross": 200,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "177",
+    "name": "Quetzalmon",
+    "speciality": "Ice",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 800,
+    "attacks": {
+      "circle": 400,
+      "triangle": 350,
+      "cross": 0,
+      "xeffect": "[x] Counter"
+    },
+    "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "178",
+    "name": "Tylomon",
+    "speciality": "Ice",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 900,
+    "attacks": {
+      "circle": 350,
+      "triangle": 300,
+      "cross": 250,
+      "xeffect": "Fire ×3"
+    },
+    "support": "Change own Specialty to Nature. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "179",
+    "name": "Halsemon",
+    "speciality": "Nature",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 700,
+    "attacks": {
+      "circle": 400,
+      "triangle": 300,
+      "cross": 250,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Draw 3 Cards.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "180",
+    "name": "Pegasusmon",
+    "speciality": "Nature",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 750,
+    "attacks": {
+      "circle": 400,
+      "triangle": 300,
+      "cross": 200,
+      "xeffect": "First Attack"
+    },
+    "support": "If foe's Specialty is Nature, own Attack Power is Doubled. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "181",
+    "name": "Nefertimon",
+    "speciality": "Nature",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 650,
+    "attacks": {
+      "circle": 500,
+      "triangle": 300,
+      "cross": 200,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Change own Specialty to Nature. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "182",
+    "name": "Hawkmon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 600,
+    "attacks": {
+      "circle": 300,
+      "triangle": 220,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "Draw 3 Cards.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "183",
+    "name": "Patamon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 600,
+    "attacks": {
+      "circle": 330,
+      "triangle": 160,
+      "cross": 0,
+      "xeffect": "[c] Counter"
+    },
+    "support": "If foe's Specialty is Darkness, own Attack Power is Doubled. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "184",
+    "name": "Gatomon",
+    "speciality": "Nature",
+    "level": "R",
+    "dp": 0,
+    "p": 30,
+    "hp": 600,
+    "attacks": {
+      "circle": 290,
+      "triangle": 200,
+      "cross": 0,
+      "xeffect": "[t] Counter"
+    },
+    "support": "Change own Specialty to Nature. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "185",
+    "name": "Raidramon",
+    "speciality": "Darkness",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 650,
+    "attacks": {
+      "circle": 300,
+      "triangle": 300,
+      "cross": 400,
+      "xeffect": "[t] to 0"
+    },
+    "support": "Boost own Attack Power +100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "186",
+    "name": "Shadramon",
+    "speciality": "Darkness",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 650,
+    "attacks": {
+      "circle": 500,
+      "triangle": 350,
+      "cross": 150,
+      "xeffect": "Jamming"
+    },
+    "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "187",
+    "name": "Wormmon",
+    "speciality": "Darkness",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 550,
+    "attacks": {
+      "circle": 300,
+      "triangle": 250,
+      "cross": 170,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Lower Opponent's Attack Power -100. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "188",
+    "name": "Shurimon",
+    "speciality": "Rare",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 600,
+    "attacks": {
+      "circle": 450,
+      "triangle": 350,
+      "cross": 250,
+      "xeffect": "[x] to 0"
+    },
+    "support": "Draw 3 Cards.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "189",
+    "name": "Digmon",
+    "speciality": "Rare",
+    "level": "A",
+    "dp": 0,
+    "p": 0,
+    "hp": 800,
+    "attacks": {
+      "circle": 400,
+      "triangle": 400,
+      "cross": 400,
+      "xeffect": "None"
+    },
+    "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "190",
+    "name": "Armadillomon",
+    "speciality": "Rare",
+    "level": "R",
+    "dp": 0,
+    "p": 20,
+    "hp": 650,
+    "attacks": {
+      "circle": 280,
+      "triangle": 240,
+      "cross": 190,
+      "xeffect": "[c] to 0"
+    },
+    "support": "Discard 2 Cards from opponent's Online Deck. Draw 1 Card.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "191",
+    "name": "Golden Banana",
+    "speciality": "Option",
+    "support": "Own HP are halved. Counterattack. Attack second.",
+    "material": 18,
+    "result": 35
+  },
+  {
+    "id": "192",
+    "name": "Devil's Chip",
+    "speciality": "Option",
+    "support": "Discard 1 Card from own Hand. Boost both players' Attack Power +600.",
+    "material": 18,
+    "result": 34
+  },
+  {
+    "id": "193",
+    "name": "Whistle",
+    "speciality": "Option",
+    "support": "If own Level is below opponent's, opponent's Attack Power becomes 0.",
+    "material": 18,
+    "result": 33
+  },
+  {
+    "id": "194",
+    "name": "Giga Hand",
+    "speciality": "Option",
+    "support": "Discard 7 Cards from Online Deck. Own Attack Power is same as own HP.",
+    "material": 17,
+    "result": 32
+  },
+  {
+    "id": "195",
+    "name": "Metallic Banana",
+    "speciality": "Option",
+    "support": "Own HP are halved. Opponent's Attack Power becomes 0.",
+    "material": 17,
+    "result": 30
+  },
+  {
+    "id": "196",
+    "name": "Shining Mane",
+    "speciality": "Option",
+    "support": "If opponent's HP are more than 1000, opponent's HP are halved.",
+    "material": 17,
+    "result": 30
+  },
+  {
+    "id": "197",
+    "name": "Mega Recovery Floppy",
+    "speciality": "Option",
+    "support": "Discard 7 Cards from Online Deck. Recover own HP by +1000.",
+    "material": 16,
+    "result": 29
+  },
+  {
+    "id": "198",
+    "name": "Mega Attack Chip",
+    "speciality": "Option",
+    "support": "Discard 7 Cards from Online Deck. Boost own Attack Power +500.",
+    "material": 16,
+    "result": 28
+  },
+  {
+    "id": "199",
+    "name": "Darkness Lord’s Mantle",
+    "speciality": "Option",
+    "support": "If opponent's HP is less than own, boost own Attack Power +400.",
+    "material": 16,
+    "result": 27
+  },
+  {
+    "id": "200",
+    "name": "Fake Sevens",
+    "speciality": "Option",
+    "support": "None",
+    "material": 15,
+    "result": 0
+  },
+  {
+    "id": "201",
+    "name": "Net Worm",
+    "speciality": "Option",
+    "support": "If both players use same Attack, discard all Cards in foe's Hand.",
+    "material": 15,
+    "result": 25
+  },
+  {
+    "id": "202",
+    "name": "Missile Pod",
+    "speciality": "Option",
+    "support": "Discard all Cards in own Hand. Own Attack Power is doubled.",
+    "material": 15,
+    "result": 24
+  },
+  {
+    "id": "203",
+    "name": "Shogun's Order",
+    "speciality": "Option",
+    "support": "Both players' Attack Power becomes 0.",
+    "material": 14,
+    "result": 23
+  },
+  {
+    "id": "204",
+    "name": "Beetle Diamond",
+    "speciality": "Option",
+    "support": "Attack first. Boost own Attack Power +100.",
+    "material": 14,
+    "result": 22
+  },
+  {
+    "id": "205",
+    "name": "Dark Bone",
+    "speciality": "Option",
+    "support": "Own attack becomes \"Eat-up HP\".",
+    "material": 14,
+    "result": 21
+  },
+  {
+    "id": "206",
+    "name": "Red Digivice",
+    "speciality": "Option",
+    "support": "If own Specialty is Fire, boost own Attack Power +100, recover HP +200.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "207",
+    "name": "Blue Digivice",
+    "speciality": "Option",
+    "support": "If own Specialty is Ice, boost own Attack Power +100, recover HP +200.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "208",
+    "name": "Green Digivice",
+    "speciality": "Option",
+    "support": "If own Specialty is Nature, boost own Attack Power +100, recover HP +200.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "209",
+    "name": "Black Digivice",
+    "speciality": "Option",
+    "support": "If own Specialty is Darkness, boost own Attack Power +100, recover HP +200.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "210",
+    "name": "Yellow Digivice",
+    "speciality": "Option",
+    "support": "If own Specialty is Rare, boost own Attack Power +100, recover HP +200.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "211",
+    "name": "Pink Digivice",
+    "speciality": "Option",
+    "support": "If Specialties are same, boost own Attack Power +200, recover HP +400.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "212",
+    "name": "Another Dimension",
+    "speciality": "Option",
+    "support": "Discard 7 Cards from both players' Online Decks.",
+    "material": 12,
+    "result": 19
+  },
+  {
+    "id": "213",
+    "name": "Uninstall",
+    "speciality": "Option",
+    "support": "If both Attacks are same, discard 7 Cards from foe's Online Deck.",
+    "material": 12,
+    "result": 18
+  },
+  {
+    "id": "214",
+    "name": "Evil Program",
+    "speciality": "Option",
+    "support": "Discard 1 Card in own DP Slot. Discard all foe's Cards in DP Slot.",
+    "material": 12,
+    "result": 17
+  },
+  {
+    "id": "215",
+    "name": "Coliseum",
+    "speciality": "Option",
+    "support": "Both players' attacks become O. Boost own O Attack Power +100.",
+    "material": 12,
+    "result": 16
+  },
+  {
+    "id": "216",
+    "name": "Fire Altar",
+    "speciality": "Option",
+    "support": "Change opponent's Specialties to Fire. Draw 1 Card from own Online Deck.",
+    "material": 11,
+    "result": 15
+  },
+  {
+    "id": "217",
+    "name": "Ice Altar",
+    "speciality": "Option",
+    "support": "Change opponent's Specialties to Ice. Draw 1 Card from own Online Deck.",
+    "material": 11,
+    "result": 15
+  },
+  {
+    "id": "218",
+    "name": "Nature Altar",
+    "speciality": "Option",
+    "support": "Change opponent's Specialties to Nature. Draw 1 Card from own Online Deck.",
+    "material": 11,
+    "result": 15
+  },
+  {
+    "id": "219",
+    "name": "Darkness Altar",
+    "speciality": "Option",
+    "support": "Change opponent's Specialties to Darkness. Draw 1 Card from own Online Deck.",
+    "material": 11,
+    "result": 15
+  },
+  {
+    "id": "220",
+    "name": "Rare Altar",
+    "speciality": "Option",
+    "support": "Change opponent's Specialties to Rare. Draw 1 Card from own Online Deck.",
+    "material": 11,
+    "result": 15
+  },
+  {
+    "id": "221",
+    "name": "Super Recovery Floppy",
+    "speciality": "Option",
+    "support": "If own HP are less than foe's HP, recover own HP by +700.",
+    "material": 10,
+    "result": 14
+  },
+  {
+    "id": "222",
+    "name": "Mega Defense Plug-in O",
+    "speciality": "Option",
+    "support": "Opponent's [c] Attack Power goes to 0. Recover own HP by +100.",
+    "material": 10,
+    "result": 13
+  },
+  {
+    "id": "223",
+    "name": "Mega Defense Plug-in Δ",
+    "speciality": "Option",
+    "support": "Opponent's [t] Attack Power goes to 0. Recover own HP by +100.",
+    "material": 10,
+    "result": 13
+  },
+  {
+    "id": "224",
+    "name": "Mega Defense Plug-in X",
+    "speciality": "Option",
+    "support": "Opponent's [x] Attack Power goes to 0. Recover own HP by +100.",
+    "material": 10,
+    "result": 13
+  },
+  {
+    "id": "225",
+    "name": "Heap of Junk",
+    "speciality": "Option",
+    "support": "Opponent discards 2 Cards from Online Deck and 1 Card from Hand.",
+    "material": 10,
+    "result": 12
+  },
+  {
+    "id": "226",
+    "name": "Beam Gun",
+    "speciality": "Option",
+    "support": "Own Attack Power becomes 0. Opponent's HP are halved.",
+    "material": 9,
+    "result": 12
+  },
+  {
+    "id": "227",
+    "name": "Chainsaw",
+    "speciality": "Option",
+    "support": "Make own HP 10. Own Attack Power is tripled.",
+    "material": 9,
+    "result": 12
+  },
+  {
+    "id": "228",
+    "name": "Metal Parts",
+    "speciality": "Option",
+    "support": "Discard own Hand. Multiply own Attack Power by number of discarded Cards.",
+    "material": 9,
+    "result": 12
+  },
+  {
+    "id": "229",
+    "name": "Metal Armor",
+    "speciality": "Option",
+    "support": "Discard own DP Slot Cards. Multiply own Atk Pwr by number of discarded Cards.",
+    "material": 9,
+    "result": 12
+  },
+  {
+    "id": "230",
+    "name": "Mega Hand",
+    "speciality": "Option",
+    "support": "Own Attack Power matches own HP, then own HP are halved.",
+    "material": 9,
+    "result": 12
+  },
+  {
+    "id": "231",
+    "name": "Level Balancer",
+    "speciality": "Option",
+    "support": "If own Level is R, boost own Attack Power +400.",
+    "material": 8,
+    "result": 11
+  },
+  {
+    "id": "232",
+    "name": "Level Manager",
+    "speciality": "Option",
+    "support": "If own Level is C, boost own Attack Power +400.",
+    "material": 8,
+    "result": 11
+  },
+  {
+    "id": "233",
+    "name": "Level Booster",
+    "speciality": "Option",
+    "support": "If own Level is U, boost own Attack Power +400.",
+    "material": 8,
+    "result": 11
+  },
+  {
+    "id": "234",
+    "name": "Armor Clash",
+    "speciality": "Option",
+    "support": "If opponent is Level Armor, his Atk Pwr becomes 0 and own Attack Power is doubled.",
+    "material": 8,
+    "result": 11
+  },
+  {
+    "id": "235",
+    "name": "Silver Ball",
+    "speciality": "Option",
+    "support": "If opponent is Level U, his Atk Pwr becomes 0 and own Attack Power is doubled.",
+    "material": 8,
+    "result": 11
+  },
+  {
+    "id": "236",
+    "name": "Coral Charm",
+    "speciality": "Option",
+    "support": "If foe's Specialty is Fire or Ice, his Attack Power goes to 0.",
+    "material": 7,
+    "result": 10
+  },
+  {
+    "id": "237",
+    "name": "Patch of Love",
+    "speciality": "Option",
+    "support": "If foe's Specialty is Nature or Darkness, his Attack Power goes to 0.",
+    "material": 7,
+    "result": 10
+  },
+  {
+    "id": "238",
+    "name": "Mystery Egg",
+    "speciality": "Option",
+    "support": "Change both players Specialties to Rare.",
+    "material": 7,
+    "result": 10
+  },
+  {
+    "id": "239",
+    "name": "Miracle Ruby",
+    "speciality": "Option",
+    "support": "KO'd Digimon revives with 1000 HP. Battle is still lost.",
+    "material": 7,
+    "result": 10
+  },
+  {
+    "id": "240",
+    "name": "Cyber Parts",
+    "speciality": "Option",
+    "support": "If both Attacks are same, own Attack Power is tripled.",
+    "material": 6,
+    "result": 10
+  },
+  {
+    "id": "241",
+    "name": "Liquid Crystal",
+    "speciality": "Option",
+    "support": "If both players use same attack, opponent's Attack Power becomes 0.",
+    "material": 6,
+    "result": 10
+  },
+  {
+    "id": "242",
+    "name": "Deluxe Mushroom",
+    "speciality": "Option",
+    "support": "If both players use same Attack, recover own HP +700.",
+    "material": 6,
+    "result": 9
+  },
+  {
+    "id": "243",
+    "name": "Lucky Mushroom",
+    "speciality": "Option",
+    "support": "If both Attacks are different, recover own HP by +500.",
+    "material": 6,
+    "result": 9
+  },
+  {
+    "id": "244",
+    "name": "Premium Steak",
+    "speciality": "Option",
+    "support": "Recover own HP by +500. Recover foe's HP by 200.",
+    "material": 6,
+    "result": 9
+  },
+  {
+    "id": "245",
+    "name": "Short Lance",
+    "speciality": "Option",
+    "support": "If both Attacks are different, own Attack Power is doubled.",
+    "material": 6,
+    "result": 9
+  },
+  {
+    "id": "246",
+    "name": "Med. Recovery Floppy",
+    "speciality": "Option",
+    "support": "Own Attack Power is halved. Recover own HP by +500.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "247",
+    "name": "Digimon Analyzer",
+    "speciality": "Option",
+    "support": "Move top 3 Cards from Offline Pile to Online Deck and shuffle.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "248",
+    "name": "Training Manual",
+    "speciality": "Option",
+    "support": "Draw until there are 4 Cards in own Hand. Recover own HP by +100.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "249",
+    "name": "Circle Hitter",
+    "speciality": "Option",
+    "support": "If opponent uses [c], attack first and boost own Attack Power +500.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "250",
+    "name": "Triangle Hitter",
+    "speciality": "Option",
+    "support": "If opponent uses [t], attack first and boost own Attack Power +500.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "251",
+    "name": "Cross Hitter",
+    "speciality": "Option",
+    "support": "If opponent uses [x], attack first and boost own Attack Power +500.",
+    "material": 5,
+    "result": 8
+  },
+  {
+    "id": "252",
+    "name": "Suka's Curse",
+    "speciality": "Option",
+    "support": "Opponent discards 2 Cards at random from his Hand.",
+    "material": 4,
+    "result": 7
+  },
+  {
+    "id": "253",
+    "name": "Cherrymon’s Mist",
+    "speciality": "Option",
+    "support": "Opponent's Support and Option Effects are voided.",
+    "material": 17,
+    "result": 32
+  },
+  {
+    "id": "254",
+    "name": "Hacking",
+    "speciality": "Option",
+    "support": "If own Level is lower, switch HP with opponent.",
+    "material": 13,
+    "result": 20
+  },
+  {
+    "id": "255",
+    "name": "Digimon Grave",
+    "speciality": "Option",
+    "support": "Opponent discards 4 top Cards from Online Deck.",
+    "material": 4,
+    "result": 7
+  },
+  {
+    "id": "256",
+    "name": "Data Copy",
+    "speciality": "Option",
+    "support": "Own Attack Power, HP, and Specialty become same as the opponent's.",
+    "material": 4,
+    "result": 7
+  },
+  {
+    "id": "257",
+    "name": "Partner Finder",
+    "speciality": "Option",
+    "support": "Pick Partner Card from own Online Deck at random and put in own Hand.",
+    "material": 4,
+    "result": 7
+  },
+  {
+    "id": "258",
+    "name": "Fire Spot",
+    "speciality": "Option",
+    "support": "Change own Specialty to Fire. Boost own Attack Power +200.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "259",
+    "name": "Ice Crystal",
+    "speciality": "Option",
+    "support": "Change own Specialty to Ice. Recover own HP by +200.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "260",
+    "name": "Earth Charm",
+    "speciality": "Option",
+    "support": "Change own Specialty to Nature. Attack first.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "261",
+    "name": "Black Gear",
+    "speciality": "Option",
+    "support": "Change own Specialty to Darkness. Both players' HP are halved.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "262",
+    "name": "Stuffed Animal",
+    "speciality": "Option",
+    "support": "Change own Specialty to Rare. Opponent discards 1 Card at random.",
+    "material": 3,
+    "result": 6
+  },
+  {
+    "id": "263",
+    "name": "Disrupt Ray",
+    "speciality": "Option",
+    "support": "Opponent's Attack changes from [c] to [t], [t] to [x], or [x] to [c].",
+    "material": 2,
+    "result": 5
+  },
+  {
+    "id": "264",
+    "name": "Attack Chip",
+    "speciality": "Option",
+    "support": "Boost own Attack Power +300.",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "265",
+    "name": "High Speed Disk",
+    "speciality": "Option",
+    "support": "Randomly discard 1 Card from own Hand. Opponent's Attack Power is 0.",
+    "material": 8,
+    "result": 14
+  },
+  {
+    "id": "266",
+    "name": "Recovery Floppy",
+    "speciality": "Option",
+    "support": "Recover own HP by +300.",
+    "material": 2,
+    "result": 4
+  },
+  {
+    "id": "267",
+    "name": "Attack disk O",
+    "speciality": "Option",
+    "support": "Own [c] Attack Power is doubled.",
+    "material": 1,
+    "result": 3
+  },
+  {
+    "id": "268",
+    "name": "Attack disk Δ",
+    "speciality": "Option",
+    "support": "Own [t] Attack Power is doubled.",
+    "material": 1,
+    "result": 3
+  },
+  {
+    "id": "269",
+    "name": "Attack disk X",
+    "speciality": "Option",
+    "support": "Own [x] Attack Power is doubled.",
+    "material": 1,
+    "result": 3
+  },
+  {
+    "id": "270",
+    "name": "Defense disk O",
+    "speciality": "Option",
+    "support": "Opponent's [c] Attack Power is 0.",
+    "material": 1,
+    "result": 2
+  },
+  {
+    "id": "271",
+    "name": "Defense disk Δ",
+    "speciality": "Option",
+    "support": "Opponent's [t] Attack Power is 0.",
+    "material": 1,
+    "result": 2
+  },
+  {
+    "id": "272",
+    "name": "Defense disk X",
+    "speciality": "Option",
+    "support": "Opponent's [x] Attack Power is 0.",
+    "material": 1,
+    "result": 2
+  },
+  {
+    "id": "273",
+    "name": "Digi-Garnet",
+    "speciality": "Option",
+    "support": "Boost own Attack Power +100.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "274",
+    "name": "Digi-Amethyst",
+    "speciality": "Option",
+    "support": "Recover own HP by +100.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "275",
+    "name": "Digi-Aquamarine",
+    "speciality": "Option",
+    "support": "KO'd Digimon revives with 100 HP. Battle is still lost.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "276",
+    "name": "Digi-Diamond",
+    "speciality": "Option",
+    "support": "Draw 2 Cards from Online Deck.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "277",
+    "name": "Digi-Emerald",
+    "speciality": "Option",
+    "support": "Change own Specialty to Nature.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "278",
+    "name": "Digi-Pearl",
+    "speciality": "Option",
+    "support": "Change own Specialty to Rare.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "279",
+    "name": "Digi-Ruby",
+    "speciality": "Option",
+    "support": "Change own Specialty to Fire.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "280",
+    "name": "Digi-Sardynx",
+    "speciality": "Option",
+    "support": "Change own Specialty to Darkness.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "281",
+    "name": "Digi-Sapphire",
+    "speciality": "Option",
+    "support": "Change own Specialty to Ice.",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "282",
+    "name": "Digi-Opal",
+    "speciality": "Option",
+    "support": "Own Attack becomes [c].",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "283",
+    "name": "Digi-Topaz",
+    "speciality": "Option",
+    "support": "Own Attack becomes [t].",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "284",
+    "name": "Digi-Turquoise",
+    "speciality": "Option",
+    "support": "Own Attack becomes [x].",
+    "material": 18,
+    "result": 0
+  },
+  {
+    "id": "285",
+    "name": "Wild Sevens",
+    "speciality": "Option",
+    "support": "Own Attack Power is tripled.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "286",
+    "name": "Holy Sevens",
+    "speciality": "Option",
+    "support": "Recover own HP by is +1000.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "287",
+    "name": "Darkness Sevens",
+    "speciality": "Option",
+    "support": "If opponent's HP are lower than own, opponent's HP become 10.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "288",
+    "name": "Grand Sevens",
+    "speciality": "Option",
+    "support": "Own Attack Power is boosted by the number of own HP.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "289",
+    "name": "Misty Sevens",
+    "speciality": "Option",
+    "support": "Opponent's Support and Option Effects are voided. His Attack Power is 0.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "290",
+    "name": "Speed Sevens",
+    "speciality": "Option",
+    "support": "Attack first. Own attack becomes \"Eat-up HP\". Boost Attack Power +200.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "291",
+    "name": "Reverse Sevens",
+    "speciality": "Option",
+    "support": "Move top 10 Cards from Offline Pile to Online Deck, then shuffle.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "292",
+    "name": "Rosemon’s Lure",
+    "speciality": "Option",
+    "support": "Opponent discards his Hand and all Cards in his DP Slot.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "293",
+    "name": "Download Digivolve",
+    "speciality": "Option",
+    "support": "Can evolve regardless of own Specialty, Level, or Digivolve Pts.",
+    "material": 0,
+    "result": 0
+  },
+  {
+    "id": "294",
+    "name": "ArmorCrush Digivolve",
+    "speciality": "Option",
+    "support": "Evolve a Level A Digimon to C or U. (DP are needed.)",
+    "material": 14,
+    "result": 21
+  },
+  {
+    "id": "295",
+    "name": "Special Digivolve",
+    "speciality": "Option",
+    "support": "Can evolve regardless of own Specialty with addition of DP +20.",
+    "material": 12,
+    "result": 16
+  },
+  {
+    "id": "296",
+    "name": "Mutant Digivolve",
+    "speciality": "Option",
+    "support": "Can evolve Digimon at same Level. (Need DP) (Ignore Specialty)",
+    "material": 10,
+    "result": 16
+  },
+  {
+    "id": "297",
+    "name": "Warp Digivolve",
+    "speciality": "Option",
+    "support": "Can evolve from R to U. (DP are needed.)",
+    "material": 8,
+    "result": 14
+  },
+  {
+    "id": "298",
+    "name": "De-Armor Digivolve",
+    "speciality": "Option",
+    "support": "Downgrade a Level Armor Digimon to Level R.",
+    "material": 4,
+    "result": 14
+  },
+  {
+    "id": "299",
+    "name": "Speed Digivolve",
+    "speciality": "Option",
+    "support": "Can disregard DP in evolving. (Not possible in Abnormal states)",
+    "material": 6,
+    "result": 14
+  },
+  {
+    "id": "300",
+    "name": "Digi-devolve",
+    "speciality": "Option",
+    "support": "Downgrade own evolution by 1 Level. HP double when successful.",
+    "material": 2,
+    "result": 5
+  }
+]
